@@ -2,8 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c, python and luascript 
 - 💞️ I’m looking to collaborate on none
-- 📫 How to reach me mail josephnikhil916@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: im lazy
 
 <!---
