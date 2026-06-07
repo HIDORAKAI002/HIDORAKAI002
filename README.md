@@ -53,8 +53,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:1a0000,100:000000&height=100&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hidorakai002&icon=0&color=0"/>
-  </a>
-</div>
+
