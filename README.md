@@ -22,12 +22,12 @@
 
 ---
 
-##  GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hidorakai002&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=ffffff" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidorakai002&theme=dark&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidorakai002&theme=dark&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff" height="170"/>
 </div>
 
 <div align="center">
