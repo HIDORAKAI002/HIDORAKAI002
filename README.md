@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:3d0000&height=200&section=header&text=hidorakai002&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Gamer&descAlignY=55&descAlign=50&descSize=18&descColor=aaaaaa" width="100%"/>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Minecraft+Server+Admin;Open+Source+Enthusiast;Always+building+something+new">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Minecraft+Server+Admin;Open+Source+Enthusiast;Always+building+something+new" alt="Typing SVG" />
-  </a>
-</p>
 
----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/J3vvht7Rv3)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph_Nikhil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jnikhil916) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Josephnikhil) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/RefrigeratorOdd99651) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32514736) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joseeNikhi50730) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephnikhil916@gmail.com) 
