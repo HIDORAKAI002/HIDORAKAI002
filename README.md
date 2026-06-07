@@ -1,5 +1,5 @@
 # hidorakai002
-### Developer • Builder • Gamer
+### ![Discord](https://img.shields.io/badge/%E2%80%8B-Discord%20Bot%20Developer%20%E2%80%A2%204.2M%20Users%20%E2%80%A2%2016.5K%20Servers-5865F2?logo=discord&logoColor=white&style=flat-square)
 
 ---
 
