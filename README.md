@@ -1,5 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:3d0000&height=200&section=header&text=hidorakai002&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Gamer&descAlignY=55&descAlign=50&descSize=18&descColor=aaaaaa" width="100%"/>
 
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Minecraft+Server+Admin;Open+Source+Enthusiast;Always+building+something+new">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Minecraft+Server+Admin;Open+Source+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 
 
 ## 🌐 Socials:
