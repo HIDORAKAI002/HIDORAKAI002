@@ -60,11 +60,6 @@
 
 ---
 
-## 💬 Random Dev Quote:
-
-<div align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
-</div>
 
 ---
 
