@@ -30,15 +30,6 @@
   <img src="https://streak-stats.demolab.com?user=hidorakai002&theme=dark&hide_border=true&background=0d0d0d&ring=ff3333&fire=ff6666&currStreakLabel=ff3333&sideLabels=ffffff&dates=888888" width="49%"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hidorakai002&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
----
 
 ## 🐍 Contribution Snake:
 
