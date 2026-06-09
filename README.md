@@ -12,36 +12,28 @@
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack
 
-### 💻 Core Languages
-* **Languages:** JavaScript, TypeScript, Python, Java, C++, C#, C, Lua
+### 🔗 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### 🚀 Frontend & UI/UX
-* **Web Tech:** HTML5, Markdown
-* **Frameworks:** Next.js
-* **Design Engineering:** Figma, Canva, Premium UI Layouts
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=OpenGL&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### ⚙️ Backend & API Development
-* **Server-Side Engines:** Node.js, FastAPI, Flask
-* **Ecosystems:** NPM Ecosystem
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### 🗄️ Database Systems
-* **Relational Databases:** MySQL (Schema Architecture & Query Optimization)
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🌐 DevOps, Infra & Environments
-* **Containerization:** Docker
-* **Operating Systems:** Linux Architecture, Windows Terminal Workflows, Advanced CLI Tooling
-* **Secure Networking:** Cloudflare Tunnels, Reverse Proxies, Low-Latency Edge Routing
+### Creative, Graphics & Hardware
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 
-### 🎨 Graphics, Media & Hardware
-* **Graphics Programming:** OpenGL API Core, Blender 3D Engine
-* **Video Automation:** FFmpeg Video Processing Automation
-* **Hardware Architectures:** NVIDIA CUDA Core Optimization, AMD Infrastructure platforms
+### Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ### 🎮 Platform & API Integrations
-* **Runtimes:** OpenJDK Runtimes
-* **Gaming APIs:** Steamworks APIs, Epic Games Services, PlayStation Network Integration, Riot Games Data Engines
+![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/Epic_Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![PlayStation](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/Riot_Games-%23D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
 ---
 
