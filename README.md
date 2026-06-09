@@ -14,28 +14,34 @@
 
 ## 🛠️ Technical Expertise
 
-### 🚀 Frontend & Web Architecture
-* **Core Technologies:** Next.js, Node.js, JavaScript, TypeScript, HTML5, Markdown
+### 💻 Core Languages
+* **Languages:** JavaScript, TypeScript, Python, Java, C++, C#, C, Lua
+
+### 🚀 Frontend & UI/UX
+* **Web Tech:** HTML5, Markdown
+* **Frameworks:** Next.js
 * **Design Engineering:** Figma, Canva, Premium UI Layouts
 
-### ⚙️ Systems & Backend Development
-* **Server-Side Engine:** FastAPI, Flask, NPM Ecosystem
-* **Languages:** Python, Java, C++, C#, C, Lua
+### ⚙️ Backend & API Development
+* **Server-Side Engines:** Node.js, FastAPI, Flask
+* **Ecosystems:** NPM Ecosystem
 
 ### 🗄️ Database Systems
-* **Relational Systems:** MySQL (Schema Architecture & Query Optimization)
+* **Relational Databases:** MySQL (Schema Architecture & Query Optimization)
 
-### 🌐 DevOps & Infrastructure
-* **Containerization & Environment:** Docker, Linux Architecture
+### 🌐 DevOps, Infra & Environments
+* **Containerization:** Docker
+* **Operating Systems:** Linux Architecture, Windows Terminal Workflows, Advanced CLI Tooling
 * **Secure Networking:** Cloudflare Tunnels, Reverse Proxies, Low-Latency Edge Routing
-* **Environment Management:** Windows Terminal Workflows, Advanced CLI Tooling
 
-### 🎨 Media & Core Graphics Pipelines
-* **Graphics Programming:** OpenGL API Core, Blender 3D Engine, FFmpeg Video Processing Automation
+### 🎨 Graphics, Media & Hardware
+* **Graphics Programming:** OpenGL API Core, Blender 3D Engine
+* **Video Automation:** FFmpeg Video Processing Automation
 * **Hardware Architectures:** NVIDIA CUDA Core Optimization, AMD Infrastructure platforms
 
-### 🎮 Platform Integration & Runtimes
-* **Ecosystems & Interfaces:** OpenJDK Runtimes, Steamworks APIs, Epic Games Services, PlayStation Network Integration, Riot Games Data Engines
+### 🎮 Platform & API Integrations
+* **Runtimes:** OpenJDK Runtimes
+* **Gaming APIs:** Steamworks APIs, Epic Games Services, PlayStation Network Integration, Riot Games Data Engines
 
 ---
 
@@ -54,4 +60,4 @@
 ---
 
 ## 🌐 Connect:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/J3vvht7Rv3)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph_Nikhil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jnikhil916) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Josephnikhil) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/RefrigeratorOdd99651) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32514736) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joseeNikhi50730) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephnikhil916@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/J3vvht7Rv3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph_Nikhil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jnikhil916) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Josephnikhil) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/RefrigeratorOdd99651) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32514736) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joseeNikhi50730) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephnikhil916@gmail.com)
